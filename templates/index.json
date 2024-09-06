@@ -6,7 +6,11 @@
         "heading": {
           "type": "heading",
           "settings": {
+<<<<<<< HEAD
             "heading": "Browse our latest products local change",
+=======
+            "heading": "Browse our latest products  change",
+>>>>>>> b39ddf6fb39436c6cf6bd0d5d2c0ef399a316410
             "heading_size": "h0"
           }
         },
